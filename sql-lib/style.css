@@ -1,0 +1,26 @@
+/* Hide independence year and continent table columns on smaller screens */
+@media screen and (max-width: 578px) {
+	.indep-year,
+	.continent {
+		display: none;
+	}
+}
+
+pre {
+	width: 100%;
+	display: inline-block;
+	overflow-x: scroll;
+	white-space: nowrap;
+}
+
+.lead {
+	margin-bottom: 0.8em;
+}
+
+.contained-code {
+	margin-bottom: 0.7em;
+}
+
+.form-inline {
+	margin-bottom: 1.7em;
+}
