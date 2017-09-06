@@ -6,7 +6,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Abraham's Embedded SQL Page</title>
+	<title>World City Information</title>
 	<script src="sql-lib/jquery-3.2.1.min.js"></script>
 	<script src="sql-lib/bootstrap.min.js"></script>
 	<script src="sql-lib/bootstrap-select.min.js"></script>
