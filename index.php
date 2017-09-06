@@ -17,13 +17,13 @@
 <body>
 	<div class="container">
 		<div class="page-header">
-			<h1>Embedded SQL Project Assignment</h1>
+			<h1>World City Information</h1>
 		</div>
 		<p class="lead">
 			To retrieve city and other information from a given country, please select from the options below. Alternatively, you may enter the information into the address bar. For example, to retrieve U.S. cities with a population greater than 1,000,000 sorted by population, you can enter:
 		</p>
 		<div class="contained-code">
-			<pre>https://abequinonez.000webhostapp.com/world/?code=USA&pop=1000000&sort=city.Population&submit=submit#</pre>
+			<pre>https://abequinonez.000webhostapp.com/city-info/?code=USA&pop=1000000&sort=city.Population&submit=submit#</pre>
 		</div>
 		<form class="form-inline" action="#" method="GET">
 			<div class="form-group">
